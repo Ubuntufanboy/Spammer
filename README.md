@@ -34,11 +34,11 @@ Follow these steps for Ubuntu
 Follow these steps on Arch
 
 - open terminal
-``sudo pacman -Syu``
-``sudo pacman -S git``
-``git clone https://github.com/Ubuntufanboy/Spammer``
-``cd Spammer``
-``python3 main.py`` 
+- ``sudo pacman -Syu``
+- ``sudo pacman -S git``
+- ``git clone https://github.com/Ubuntufanboy/Spammer``
+- ``cd Spammer``
+- ``python3 main.py`` 
 
 ## How to contribute
 
